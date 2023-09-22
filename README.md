@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kartika014
+- 👋 Hi, I’m @Kartika Panwar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
